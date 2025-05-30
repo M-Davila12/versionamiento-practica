@@ -15,3 +15,6 @@ El control de versiones es un sistema que permite gestionar y registrar los camb
 ### Opinión sobre GitHub
 
 Elegí GitHub porque tiene una interfaz amigable, es ampliamente utilizado en la industria del software y cuenta con una gran comunidad. Además, su integración con herramientas como GitHub Actions facilita la automatización del desarrollo.
+
+
+
